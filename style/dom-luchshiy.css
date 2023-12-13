@@ -275,7 +275,7 @@ li {
   margin-top: 200px;
 }
 .s3-text1 {
-  font-family: Tinos;
+  font-family: "Tinos-Bold";
   font-size: 40px;
   font-weight: 400;
   line-height: 46px;
@@ -284,7 +284,7 @@ li {
   color: #000000;
 }
 .s3-span1 {
-  font-family: Cookie;
+  font-family: "Tinos-Bold";
   font-size: 40px;
   font-weight: 400;
   line-height: 44px;
@@ -395,7 +395,7 @@ li {
   text-align: center;
 }
 .s4-text2 {
-  font-family: Open Sans;
+  font-family: "OpenSans-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 22px;
@@ -439,7 +439,7 @@ li {
   padding-top: 15px;
 }
 .section5-text1 {
-  font-family: Open Sans;
+  font-family: "OpenSans-Regular";
   font-size: 20px;
   font-style: italic;
 
@@ -457,7 +457,7 @@ li {
   margin-top: 50px;
 }
 .section6-text1 {
-  font-family: Tinos;
+  font-family: "Tinos-Bold";
   font-size: 40px;
   font-weight: 400;
   line-height: 46px;
@@ -466,7 +466,7 @@ li {
   color: #000000;
 }
 .section6-span1 {
-  font-family: Cookie;
+  font-family: "OpenSans-Regular";
   font-size: 40px;
   font-weight: 400;
   line-height: 44px;
@@ -528,7 +528,7 @@ li {
   flex-direction: column;
 }
 .s7-text1 {
-  font-family: Tinos;
+  font-family: "Tinos-Bold";
   font-size: 40px;
   font-weight: 400;
   line-height: 46px;
@@ -537,7 +537,7 @@ li {
   color: #000000;
 }
 .s7-span1 {
-  font-family: Cookie;
+  font-family: "OpenSans-Regular";
   font-size: 40px;
   font-weight: 400;
   line-height: 44px;
@@ -726,7 +726,7 @@ li {
     text-align: center;
     align-items: center;
     margin-left: 60px;
-    font-family: Open Sans;
+    font-family: "OpenSans-Regular";
     font-size: 16px;
     font-weight: 400;
     line-height: 22px;
@@ -830,7 +830,7 @@ li {
     color: #000000;
   }
   .s3-nash2 {
-    font-family: Tinos;
+    font-family: "Tinos-Bold";
     font-size: 54px;
     font-weight: 400;
     line-height: 62px;
@@ -906,7 +906,7 @@ li {
   }
 
   .s4-text1 {
-    font-family: Tinos;
+    font-family: "Tinos-Bold";
     font-size: 26px;
     font-weight: 400;
     line-height: 30px;
@@ -916,7 +916,7 @@ li {
     margin-bottom: 20px;
   }
   .s4-text2 {
-    font-family: Open Sans;
+    font-family: "OpenSans-Regular";
     font-size: 16px;
     font-weight: 400;
     line-height: 30px;
@@ -926,7 +926,7 @@ li {
   .s4-btn11 {
     height: 60px;
     width: 120px;
-    font-family: Open Sans;
+    font-family: "OpenSans-Regular";
     font-size: 16px;
     font-weight: 700;
     line-height: 30px;
@@ -935,7 +935,7 @@ li {
     margin-top: 60px;
   }
   .section6-text1 {
-    font-family: Tinos;
+    font-family: "Tinos-Bold";
     font-size: 54px;
     font-weight: 400;
     line-height: 62px;
@@ -943,7 +943,7 @@ li {
     text-align: center;
   }
   .section6-span1 {
-    font-family: Tinos;
+    font-family: "Tinos-Bold";
     font-size: 54px;
     font-weight: 400;
     line-height: 62px;
@@ -993,7 +993,7 @@ li {
     flex-direction: row;
   }
   .s7-text1 {
-    font-family: Tinos;
+    font-family: "Tinos-Bold";
     font-size: 40px;
     font-weight: 400;
     line-height: 46px;
@@ -1002,7 +1002,7 @@ li {
     color: #000000;
   }
   .s7-span1 {
-    font-family: Cookie;
+    font-family: "OpenSans-Regular";
     font-size: 40px;
     font-weight: 400;
     line-height: 44px;
